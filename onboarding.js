@@ -2,6 +2,7 @@
  * KnowledgeBot MVP - Onboarding Interface
  * Handles new employee onboarding workflow, checklists, and FAQ
  */
+const document = window.document;
 
 class OnboardingInterface {
     constructor() {
